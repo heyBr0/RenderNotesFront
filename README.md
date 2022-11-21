@@ -1,1 +1,1 @@
-Full-stack-app-front-deployment
+Learning the deployment of a Full-stack-app
